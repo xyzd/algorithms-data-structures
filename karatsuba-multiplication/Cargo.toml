@@ -1,0 +1,10 @@
+[package]
+name = "karatsuba-multiplication"
+version = "0.1.0"
+authors = ["Dan B <xyzd@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+num-bigint = "0.2.6"
+num-traits = "0.2.11"
+num-integer = "0.1.42"
